@@ -28,4 +28,4 @@ dsh plugin --profile web add ./dsh-message-moods-1.1.1.tgz
 | DSH 版本 | 实测范围 |
 | --- | --- |
 | `0.2.2-rc.3` | Windows 桌面端已验证页面调节和保存。自带 CLI 的隔离 Web profile 已通过安装与四种回复的模拟模型测试。 |
-| `0.2.2-rc.4` | 官方 npm `@deepseek-ai/dsh-llm` 与 `rc.3` 宿主依赖搭配，四种回复通过同组测试。Windows 桌面整包待验证。 |
+| `0.2.2-rc.4` | 官方 npm `@deepseek-ai/dsh-llm` 与 `rc.3` 宿主依赖搭配，四种回复通过同组测试。 |
